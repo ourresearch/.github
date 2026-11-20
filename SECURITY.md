@@ -6,8 +6,8 @@ This policy covers OpenAlex, Unpaywall, Unsub and the code in this GitHub organi
 
 Please report security holes privately, never in a public issue.
 
-- **On GitHub (preferred):** open the affected repository's **Security** tab and click **Report a vulnerability**. Only our maintainers see the report. Not sure which repository? Pick the closest one and we'll move it.
-- **No GitHub account?** Write to support@openalex.org with "Security report" in the subject, and leave out the details. We'll reply with a private way to send them.
+- **By email:** write to security@openalex.org. Only our security team reads it.
+- **On GitHub:** open the affected repository's **Security** tab and click **Report a vulnerability**. Only our maintainers see the report. Not sure which repository? Pick the closest one and we'll move it.
 
 Please include what's affected, the steps to reproduce it, what an attacker could do with it, and how to reach you.
 
